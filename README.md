@@ -2,10 +2,10 @@
 
 **Findings of EMNLP 2026**
 
-![Paper](https://img.shields.io/badge/arXiv-2609.03620-b31b1b.svg)
-![Checkpoints](https://img.shields.io/badge/Checkpoints-Google%20Drive-4285F4.svg)
-![MAADD](https://img.shields.io/badge/MAADD-build%20locally-2ea44f.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+[![Paper](https://img.shields.io/badge/arXiv-2609.03620-b31b1b.svg)](https://arxiv.org/abs/2609.03620)
+[![Checkpoints](https://img.shields.io/badge/Checkpoints-Google%20Drive-4285F4.svg)](https://drive.google.com/drive/folders/19S1NcfUmJZuUwkHq35GdrX76WMuUNLRM?usp=sharing)
+[![MAADD](https://img.shields.io/badge/MAADD-build%20locally-2ea44f.svg)](#2-mixed-authenticity-add-dataset)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ### Overview
 
